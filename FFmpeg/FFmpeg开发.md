@@ -239,7 +239,8 @@ ffplay播放视频出错要加上视频的分辨率
 ---
 \****例：****ffmpeg -i image-%3d.jpeg out.mpg*\*  
 
-**十二.直播推/拉流(RTMP、RTSP、HTTP等协议****https://blog.csdn.net/github\_30662571/article/details/72466091\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*)\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***  
+**十二.直播推/拉流(RTMP、RTSP、HTTP等协议
+https://blog.csdn.net/github\_30662571/article/details/72466091
 
 **1.直播推流**  
 
